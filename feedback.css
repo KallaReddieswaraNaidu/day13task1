@@ -1,0 +1,120 @@
+*{
+    margin:2px 4px;
+}
+
+.form{
+    margin:20px 25px;
+    font-weight: bold;
+}
+.lastname{
+    margin-left:35px;
+    
+}
+.rowform{
+    display:flex;
+
+}
+.h5last{
+    width: 100px;
+margin-left:184px;
+}
+ input[type="email"]{
+    width: 376px;
+    height: 28px;
+ }
+    
+ input[type="text"]{
+    height: 28px;
+}
+sup{
+    color:rgba(239, 21, 21, 0.998);
+    font-weight: bold;
+}
+.checked {
+    color: orange;}
+.experience{
+    margin:20px 25px;
+    }
+.satisfied{
+    margin:20px 25px;
+}
+
+.satisfied h4{
+    margin:15px 
+ }
+.rating{
+    display:flex;
+    margin-left:200px;
+}
+.rating h5{
+    margin-left:80px;
+}
+.pur{
+    display:flex;
+}
+.radio{
+   margin-top:10px;
+    float: right;
+}
+
+.es1{
+    margin-left: 210px;
+}
+.es2{
+   margin-left: 150px;
+}
+
+
+.es4{
+    margin-left: 110px;
+}
+.es5{
+    margin-left: 115px; 
+}
+
+.ess1{
+    margin-left: 220px;
+}
+.esss1{
+    margin-left: 148px;
+}
+
+
+.rating1{
+    display:flex;
+    margin-left:190px;
+}
+.rating1 h5{
+    margin-left:90px;
+}
+.radio1{
+    margin-top:17px;
+     float: right;
+}
+.es11{
+    margin-left: 140px;
+}
+.es22{
+    margin-left: 140px;
+}
+.es44{
+    margin-left: 124px;
+}
+.es55{
+    margin-left: 110px;
+}
+.ess11{
+    margin-left: 145px;
+}
+.esss11{
+    margin-left: 138px;
+}
+textarea{
+    width: 53%;
+    height:75px;
+}
+.submit{
+    float:left;
+}
+
+
